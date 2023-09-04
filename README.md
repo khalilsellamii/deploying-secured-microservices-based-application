@@ -1,2 +1,9 @@
 # deploying-secured-microservices-based-application
-This project aims to deliver a robust and secure microservices-based application capable of meeting the demands of modern, distributed systems while ensuring top-notch security measures are in place.
+
+<p align="center">
+<img src="https://github.com/khalilsellamii/deploying-secured-microservices-based-application/blob/main/pictures/img1.jpg" alt="Alt text" width="800" height="400">
+</p>  
+
+
+This project aims to deliver the PoC (Proof Of Concept) of a robust and secure microservices-based web application capable of meeting the demands of modern, distributed systems while ensuring top-notch security measures are in place.  
+Python is the core programming language chosen for its versatility, while Docker containers are utilized to encapsulate each microservice and its dependencies, ensuring seamless deployment and consistent performance across various environments. Kubernetes (K8s) plays a pivotal role in orchestrating and managing these containers, providing essential features like auto-scaling, load balancing, and high availability, making it the ideal platform for microservices deployment. Helm charts simplify the management of complex Kubernetes applications, allowing you to define, install, and upgrade your microservices application efficiently. 
