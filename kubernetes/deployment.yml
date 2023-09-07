@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: webapp:1.0
+        image: khalil1234/webapp:v1.0
         ports:
         - containerPort: 5000
